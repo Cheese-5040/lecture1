@@ -4,5 +4,5 @@ def computepay(h,r):
 
 h = int(input("Enter Hours:"))
 r = float(input("Enter rate:"))
-p = computepay(10,20)
+p = computepay(h,r)
 print("Pay",p)
